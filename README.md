@@ -1,6 +1,28 @@
 <h1 align="center">Starbucks Page usando HTML5, CSS3 & JavaScript</h1>
+<h3>💡 Ideia do projeto:</h3>
+<p>Neste repositório criei uma landing page design do Starbucks. </p>
 
-<p>Neste repositório criei uma landing page design do Starbucks em html5, css3 & javascript com </p>
-![landpage-ezgif com-video-to-gif-converter](https://github.com/Igor-monteiroo/tela-de-login/assets/94816709/7cc7229f-b88c-450f-baa1-6df7a99c6b86)
+Objetivo:
+<br>
+colocar em pratica estudos recentes.
+
+#
+<h3>🛠 Tecnologias utilizadas:</h3>
+<strong>HTML5</strong>
+<br>
+<strong>CSS3</strong>
+<br>
+<strong>JAVASCRIPT</strong>
+
+#
+
+
+<h3>💻 Resultado:</h3>
+Acesse o formulário de recrutamento neste link <link href="https://igor-monteiroo.github.io/starbucks-landing-page/">aqui!</link>
+<br>
+
+
+
+https://github.com/Igor-monteiroo/starbucks-landing-page/assets/94816709/7f58fb56-3ebc-4d9c-a6e7-91ff7b77fab2
 
 
