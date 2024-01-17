@@ -18,8 +18,7 @@ colocar em pratica estudos recentes.
 
 
 <h3>💻 Resultado:</h3>
-Acesse o formulário de recrutamento neste link <link href="https://igor-monteiroo.github.io/starbucks-landing-page/">aqui!</link>
-<br>
+Acesse o formulário de recrutamento neste link https://igor-monteiroo.github.io/starbucks-landing-page/
 
 
 
